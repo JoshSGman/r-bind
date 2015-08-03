@@ -6,4 +6,4 @@ var rBind = function(func, context, args){
 	};
 };
 
-module.exports = {rBind: rBind};
+module.exports = rBind;
