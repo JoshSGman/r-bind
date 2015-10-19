@@ -1,4 +1,3 @@
-
 var rBind = function(func, context, args){
 	return function(){
 		var origArgs = Array.prototype.slice.call(arguments);
